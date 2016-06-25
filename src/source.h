@@ -38,4 +38,5 @@ public:
   virtual void operator () (Grid* g) const = 0;
 };
 
+added nothing
 #endif
