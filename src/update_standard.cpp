@@ -28,3 +28,4 @@ void Update_Standard::operator () (Grid* g, double dt, double weight) const {
     }
   }
 }
+Updated for v2 release
