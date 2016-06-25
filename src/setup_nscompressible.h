@@ -64,4 +64,5 @@ private:
   State_Equation* _eq;
 };
 
+Bug fixed
 #endif
