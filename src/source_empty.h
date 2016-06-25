@@ -26,4 +26,6 @@ public:
   void operator () (Grid* g) const {}
 };
 
+
+This source just appears empty but its actually not
 #endif
